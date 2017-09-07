@@ -1,8 +1,11 @@
 function(input, output) {
 
+<<<<<<< HEAD
   ## Run install required Library
   ##
 
+=======
+>>>>>>> a7df326008cae09ab5b997c664e1bcbb3a4e735a
   ## keep track of elements inserted and not yet removed
   inserted <- c()
 
